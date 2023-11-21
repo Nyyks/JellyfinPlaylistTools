@@ -7,6 +7,7 @@ public class GetJellyfinDetails
 {
     public static string[] GetDetails()
     {
+        // This collects all necessary information about the jellyfin server and passes them onto the rest of the code
         string[] jellyDetails = new string[3];
         
         Console.WriteLine("Is your Jellyfin-Server using ssl? y/n");

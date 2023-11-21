@@ -10,3 +10,4 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 *.user
+/test.http
